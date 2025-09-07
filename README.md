@@ -1,4 +1,4 @@
-#**Abitha Banu: Coding Circuits, Creating Futures ✨**
+<h1>**Abitha Banu: Coding Circuits, Creating Futures ✨**</h1>
 
 Hey there! Welcome to my GitHub profile 👋. I'm Abitha Banu, a passionate learner and an Electronics and Communication Engineering student at M. Kumarasamy College of Engineering. I’m exploring the intersection of hardware and software, aiming to build impactful solutions through code and creativity.
 
